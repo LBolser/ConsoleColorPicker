@@ -1,0 +1,6 @@
+C:\Users\degan\Desktop\NMC\CIT 110 - Programming Logic and Design\Capstone\ConsoleColorPicker\bin\Debug\ConsoleColorPicker.exe.config
+C:\Users\degan\Desktop\NMC\CIT 110 - Programming Logic and Design\Capstone\ConsoleColorPicker\bin\Debug\ConsoleColorPicker.exe
+C:\Users\degan\Desktop\NMC\CIT 110 - Programming Logic and Design\Capstone\ConsoleColorPicker\bin\Debug\ConsoleColorPicker.pdb
+C:\Users\degan\Desktop\NMC\CIT 110 - Programming Logic and Design\Capstone\ConsoleColorPicker\obj\Debug\ConsoleColorPicker.exe
+C:\Users\degan\Desktop\NMC\CIT 110 - Programming Logic and Design\Capstone\ConsoleColorPicker\obj\Debug\ConsoleColorPicker.pdb
+C:\Users\degan\Desktop\NMC\CIT 110 - Programming Logic and Design\Capstone\ConsoleColorPicker\obj\Debug\ConsoleColorPicker.csprojAssemblyReference.cache
